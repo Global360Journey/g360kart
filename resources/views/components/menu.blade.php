@@ -5,7 +5,7 @@
                 <div class="top_header_left">
                     <div class="selector">
                         <select class="language_drop" name="countries" id="countries" style="width:300px;">
-                          <option value='yt' data-image="/storage/img/icon/flag-1.png" data-imagecss="flag yt" data-title="English">English</option>
+                          <option value='yt' data-image="/images/img/icon/flag-1.png" data-imagecss="flag yt" data-title="English">English</option>
                         </select>
                     </div>
                     <select class="selectpicker usd_select">
@@ -25,7 +25,7 @@
 <div class="carousel_menu_inner">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="/"><img src="/storage/img/logo.png" alt=""></a>
+            <a class="navbar-brand" href="/"><img src="/images/img/logo.png" alt=""></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
 

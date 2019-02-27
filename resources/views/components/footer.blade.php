@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-4 col-6">
                 <aside class="f_widget f_about_widget">
-                    <img src="/storage/img/logo.png" alt="">
+                    <img src="/images/img/logo.png" alt="">
                     <p>Persuit is a Premium PSD Template. Best choice for your online store. Let purchase it to enjoy now</p>
                     <h6>Social:</h6>
                     <ul>

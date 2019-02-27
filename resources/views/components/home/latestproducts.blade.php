@@ -14,7 +14,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 woman bags">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-1.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-1.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -30,7 +30,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 acc shoes">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-2.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-2.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -46,7 +46,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 woman shoes">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-3.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-3.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -62,7 +62,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 woman shoes">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-4.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-4.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -78,7 +78,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 woman shoes">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-5.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-5.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -94,7 +94,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 acc shoes bags">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-6.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-6.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -110,7 +110,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 acc bags">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-7.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-7.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>
@@ -126,7 +126,7 @@
             <div class="col-lg-3 col-md-4 col-sm-6 acc bags">
                 <div class="l_product_item">
                     <div class="l_p_img">
-                        <img class="img-fluid" src="/storage/img/product/l-product-8.jpg" alt="">
+                        <img class="img-fluid" src="/images/img/product/l-product-8.jpg" alt="">
                     </div>
                     <div class="l_p_text">
                         <ul>

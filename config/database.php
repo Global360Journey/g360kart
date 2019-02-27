@@ -44,7 +44,7 @@ return [
             'driver' => 'mysql',
             'host' => env('DB_HOST', 'localhost'),
             'port' => env('DB_PORT', '3306'),
-            'database' => env('DB_DATABASE', 'global360kart'),
+            'database' => env('DB_DATABASE', ''),
             'username' => env('DB_USERNAME', 'forge'),
             'password' => env('DB_PASSWORD', 'b0P3qBZQipSh7SSkbaKw'),
             'unix_socket' => env('DB_SOCKET', ''),

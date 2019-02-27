@@ -9,7 +9,7 @@
                     <div class="f_product_inner">
                         <div class="media">
                             <div class="d-flex">
-                                <img src="/storage/img/product/featured-product/f-p-1.jpg" alt="">
+                                <img src="/images/img/product/featured-product/f-p-1.jpg" alt="">
                             </div>
                             <div class="media-body">
                                 <h4>Oxford Shirt</h4>
@@ -18,7 +18,7 @@
                         </div>
                         <div class="media">
                             <div class="d-flex">
-                                <img src="/storage/img/product/featured-product/f-p-2.jpg" alt="">
+                                <img src="/images/img/product/featured-product/f-p-2.jpg" alt="">
                             </div>
                             <div class="media-body">
                                 <h4>Puffer Jacket</h4>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="media">
                             <div class="d-flex">
-                                <img src="/storage/img/product/featured-product/f-p-3.jpg" alt="">
+                                <img src="/images/img/product/featured-product/f-p-3.jpg" alt="">
                             </div>
                             <div class="media-body">
                                 <h4>Leather Bag</h4>
@@ -36,7 +36,7 @@
                         </div>
                         <div class="media">
                             <div class="d-flex">
-                                <img src="/storage/img/product/featured-product/f-p-4.jpg" alt="">
+                                <img src="/images/img/product/featured-product/f-p-4.jpg" alt="">
                             </div>
                             <div class="media-body">
                                 <h4>Casual Shoes</h4>
@@ -58,7 +58,7 @@
                         <div class="item shoes">
                             <div class="fillter_product_item bags">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-1.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-1.jpg" alt="">
                                     <h5 class="sale">Sale</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -70,7 +70,7 @@
                         <div class="item woman shoes bags">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-2.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-2.jpg" alt="">
                                     <h5 class="new">New</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -82,7 +82,7 @@
                         <div class="item woman shoes">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-3.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-3.jpg" alt="">
                                     <h5 class="discount">-10%</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -94,7 +94,7 @@
                         <div class="item shoes">
                             <div class="fillter_product_item bags">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-1.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-1.jpg" alt="">
                                     <h5 class="sale">Sale</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -106,7 +106,7 @@
                         <div class="item woman shoes bags">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-2.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-2.jpg" alt="">
                                     <h5 class="new">New</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -118,7 +118,7 @@
                         <div class="item woman shoes">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-3.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-3.jpg" alt="">
                                     <h5 class="discount">-10%</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -130,7 +130,7 @@
                         <div class="item shoes">
                             <div class="fillter_product_item bags">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-1.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-1.jpg" alt="">
                                     <h5 class="sale">Sale</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -142,7 +142,7 @@
                         <div class="item woman shoes bags">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-2.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-2.jpg" alt="">
                                     <h5 class="new">New</h5>
                                 </div>
                                 <div class="f_p_text">
@@ -154,7 +154,7 @@
                         <div class="item woman shoes">
                             <div class="fillter_product_item">
                                 <div class="f_p_img">
-                                    <img src="/storage/img/product/fillter-product/f-product-3.jpg" alt="">
+                                    <img src="/images/img/product/fillter-product/f-product-3.jpg" alt="">
                                     <h5 class="discount">-10%</h5>
                                 </div>
                                 <div class="f_p_text">

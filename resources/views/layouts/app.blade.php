@@ -8,7 +8,7 @@
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
         
-        <link rel="icon" href="/storage/img/fav-icon.png" type="image/x-icon" />
+        <link rel="icon" href="/images/img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>{{ config('app.name', 'Global360kart') }}</title>
 

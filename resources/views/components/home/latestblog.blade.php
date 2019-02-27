@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6">
                 <div class="from_blog_item">
-                    <img class="img-fluid" src="/storage/img/blog/from-blog/f-blog-1.jpg" alt="">
+                    <img class="img-fluid" src="/images/img/blog/from-blog/f-blog-1.jpg" alt="">
                     <div class="f_blog_text">
                         <h5>fashion</h5>
                         <p>Neque porro quisquam est qui dolorem ipsum</p>
@@ -16,7 +16,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="from_blog_item">
-                    <img class="img-fluid" src="/storage/img/blog/from-blog/f-blog-2.jpg" alt="">
+                    <img class="img-fluid" src="/images/img/blog/from-blog/f-blog-2.jpg" alt="">
                     <div class="f_blog_text">
                         <h5>fashion</h5>
                         <p>Neque porro quisquam est qui dolorem ipsum</p>
@@ -26,7 +26,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="from_blog_item">
-                    <img class="img-fluid" src="/storage/img/blog/from-blog/f-blog-3.jpg" alt="">
+                    <img class="img-fluid" src="/images/img/blog/from-blog/f-blog-3.jpg" alt="">
                     <div class="f_blog_text">
                         <h5>fashion</h5>
                         <p>Neque porro quisquam est qui dolorem ipsum</p>

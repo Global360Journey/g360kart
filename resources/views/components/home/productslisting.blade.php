@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-4">
                     <div class="p_list_img">
-                        <img src="/storage/img/product/p-categories-list/product-l-1.jpg" alt="">
+                        <img src="/images/img/product/p-categories-list/product-l-1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-4">
                     <div class="p_list_img">
-                        <img src="/storage/img/product/p-categories-list/product-l-2.jpg" alt="">
+                        <img src="/images/img/product/p-categories-list/product-l-2.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 </div>
                 <div class="col-lg-6 col-sm-4">
                     <div class="p_list_img">
-                        <img src="/storage/img/product/p-categories-list/product-l-3.jpg" alt="">
+                        <img src="/images/img/product/p-categories-list/product-l-3.jpg" alt="">
                     </div>
                 </div>
             </div>
