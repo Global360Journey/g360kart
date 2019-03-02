@@ -3,6 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ config('app.name', 'Global360kart') }}</title>
+        <meta name="description" content="Best E-commerce website in India. Best Online E-commerce shop in india with different type of categories like Electronic Men/Woman Cloth Books etc"/>
+        <meta name="keywords" content="Best Ecommerce in India, Best Ecommerce in Delhi, Best Ecommerce in Mumbai, Online Mobile, Online Books, Online Fashion cloths,Electronics,Laptop." />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <!-- CSRF Token -->
@@ -10,7 +13,8 @@
         
         <link rel="icon" href="/images/img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>{{ config('app.name', 'Global360kart') }}</title>
+        
+
 
        
 
