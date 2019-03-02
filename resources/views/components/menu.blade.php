@@ -441,8 +441,8 @@
                                                 </ul>
                           </li>
                           
+                          <li class="nav-item"><a class="nav-link" href="#">Today Deals</a></li>
                           <li class="nav-item"><a class="nav-link" href="#">Blog</a></li>
-                          <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
                 </ul>
                 
             </div>
