@@ -1,20 +1,4 @@
 /*----------------------------------------------------
-@File: Default Styles
-@Author: Rocky
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: Persuit
-@Author: Rocky
-@Developed By: Rocky
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
 @Default Styles
 
 Table of Content:
@@ -767,13 +751,13 @@ i:before {
 }
 
 .shop_header_area .navbar .navbar-nav li {
-  margin-right: 40px;
+  margin-right: 31px;
 }
 
 .shop_header_area .navbar .navbar-nav li a {
   padding: 0px;
   line-height: 70px;
-  font-size: 14px;
+  font-size: 13px;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
@@ -792,7 +776,7 @@ i:before {
 }
 
 .shop_header_area .navbar .navbar-nav li:first-child {
-  margin-left: 60px;
+  margin-left: 21px;
 }
 
 .shop_header_area .navbar .navbar-nav li:last-child {
@@ -870,7 +854,7 @@ i:before {
 }
 
 .carousel_menu_inner .navbar {
-  padding: 20px 0px 20px 0px;
+  padding: 8px 0px 10px 0px;
   border-bottom: none;
 }
 

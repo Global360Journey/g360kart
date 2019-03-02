@@ -20,8 +20,8 @@
         <link href="{{ asset('vendor/elegant-icon/style.css') }}" rel="stylesheet">
         <!-- Bootstrap -->
         <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-        
-        <!-- Rev slider css -->
+
+         <!-- Rev slider css -->
         <link href="{{ asset('vendor/revolution/css/settings.css') }}" rel="stylesheet">
         <link href="{{ asset('vendor/revolution/css/layers.css') }}" rel="stylesheet">
         <link href="{{ asset('vendor/revolution/css/navigation.css') }}" rel="stylesheet">
