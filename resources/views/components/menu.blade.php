@@ -172,7 +172,7 @@
                          <li class="nav-item dropdown dropdown-large">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Electronics <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                     
-                                    <ul class="dropdown-menu dropdown-menu-large row">
+                                    <!--<ul class="dropdown-menu dropdown-menu-large row">
                                         <li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">Sword of Truths</li>
@@ -234,13 +234,13 @@
                                                 <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                             </ul>
                                         </li>
-                                    </ul>
+                                    </ul>-->
                           </li>
                           
                           <li class="nav-item dropdown dropdown-large">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fashion<i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                         
-                                        <ul class="dropdown-menu dropdown-menu-large row">
+                                        <!--<ul class="dropdown-menu dropdown-menu-large row">
                                             <li class="col-sm-3">
                                                 <ul>
                                                     <li class="dropdown-header">Sword of Truths</li>
@@ -302,14 +302,14 @@
                                                     <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                               </li>
 
 
                           <li class="nav-item dropdown dropdown-large">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home & Furniture <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                     
-                                    <ul class="dropdown-menu dropdown-menu-large row">
+                                    <!--<ul class="dropdown-menu dropdown-menu-large row">
                                         <li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">Sword of Truths</li>
@@ -371,11 +371,11 @@
                                                 <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                             </ul>
                                         </li>
-                                    </ul>
+                                    </ul>-->
                           </li>
                           <li class="nav-item dropdown dropdown-large">
                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sports, Books & More<i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                            <ul class="dropdown-menu dropdown-menu-large row">
+                            <!-- <ul class="dropdown-menu dropdown-menu-large row">
                                                     <li class="col-sm-3">
                                                         <ul>
                                                             <li class="dropdown-header">Sword of Truths</li>
@@ -438,7 +438,7 @@
                                                         </ul>
                                                     </li>
                                                     
-                                                </ul>
+                                                </ul> -->
                           </li>
                           
                           <li class="nav-item"><a class="nav-link" href="#">Today Deals</a></li>
