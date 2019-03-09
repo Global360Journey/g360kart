@@ -15,11 +15,15 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Auth::routes();
+
+Route::get('logout', 'Auth\LoginController@logout');
+
+Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
+
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
 
-Auth::routes();
 
-Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
