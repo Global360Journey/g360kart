@@ -220,30 +220,9 @@
 
                          
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Electronics <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                    
-                                   <ul class="dropdown-menu dropdown-menu-large row">
-                                   <div class="tab">
-                                        <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
-                                        <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-                                        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-                                    </div>
+                               
 
-                                   <div id="London" class="tabcontent">
-                                     <h3>London</h3>
-                                     <p>London is the capital city of England.</p>
-                                  </div>
-
-                                 <div id="Paris" class="tabcontent">
-                                    <h3>Paris</h3>
-                                    <p>Paris is the capital of France.</p> 
-                                 </div>
-
-                                <div id="Tokyo" class="tabcontent">
-                                    <h3>Tokyo</h3>
-                                    <p>Tokyo is the capital of Japan.</p>
-                                </div>
-
-                                        <!--<li class="col-sm-3">
+                                        <li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">Sword of Truths</li>
                                                 <li><a href="#">Example</a></li>
@@ -303,7 +282,7 @@
                                                 <li class="divider"></li>
                                                 <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                             </ul>
-                                        </li> -->
+                                        </li> 
                                     </ul>
                           </li>
                           
