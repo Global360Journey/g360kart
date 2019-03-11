@@ -104,14 +104,61 @@
         }
 
         .dropdown-menu .divider {
-    height: 1px;
-    margin: 9px 0;
-    overflow: hidden;
-    background-color: #e5e5e5;
+            height: 1px;
+            margin: 9px 0;
+            overflow: hidden;
+            background-color: #e5e5e5;
+        }
+
+        .mb-4, .my-4 {
+            margin-bottom: 0.5rem!important;
+        }
+
+* {box-sizing: border-box}
+
+
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 300px;
 }
 
-.mb-4, .my-4 {
-    margin-bottom: 0.5rem!important;
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 300px;
 }
 </style>
         
@@ -122,12 +169,12 @@
             
             <div class="float-md-left">
                 <div class="top_header_left">
-                    <div class="selector">
+                    <!--<div class="selector">
                         <select class="language_drop" name="countries" id="countries" style="width:300px;">
                           <option value='yt' data-image="/images/img/icon/flag-1.png" data-imagecss="flag yt" data-title="English">English</option>
                         </select>
-                    </div>
-                    <font><b><a href="#"><i class="fa fa-phone"></i> Call Us: <span>+91 9930319931</span></a></b></font>
+                    </div>-->
+                    <font><b><a href="#"><i class="fa fa-phone"></i> Call Us: <span>+44 203 77 22 555</span></a></b></font>
                 </div>
             </div>
 
@@ -170,10 +217,33 @@
                     <ul class="nav navbar-nav mr-auto">
                          <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
                          <li class="nav-item dropdown dropdown-large">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Electronics <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+
+                         
+                          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Electronics <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                     
                                    <ul class="dropdown-menu dropdown-menu-large row">
-                                        <li class="col-sm-3">
+                                   <div class="tab">
+                                        <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">London</button>
+                                        <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+                                        <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+                                    </div>
+
+                                   <div id="London" class="tabcontent">
+                                     <h3>London</h3>
+                                     <p>London is the capital city of England.</p>
+                                  </div>
+
+                                 <div id="Paris" class="tabcontent">
+                                    <h3>Paris</h3>
+                                    <p>Paris is the capital of France.</p> 
+                                 </div>
+
+                                <div id="Tokyo" class="tabcontent">
+                                    <h3>Tokyo</h3>
+                                    <p>Tokyo is the capital of Japan.</p>
+                                </div>
+
+                                        <!--<li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">Sword of Truths</li>
                                                 <li><a href="#">Example</a></li>
@@ -233,7 +303,7 @@
                                                 <li class="divider"></li>
                                                 <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                     </ul>
                           </li>
                           
@@ -451,3 +521,22 @@
         </nav>
     </div>
 </div>
+<script>
+function openCity(evt, cityName) 
+    {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
