@@ -181,7 +181,7 @@
 
             <div class="float-md-left">
                     <div class="top_header_middle">  
-                            <div class="col-xs-8 col-xs-offset-2" style="margin-top:10px; margin-left:80px;">
+                            <div class="col-xs-8 col-xs-offset-2" style="margin-top:10px; margin-left:127px;">
                                     <div class="active-pink-3 active-pink-4 mb-4">
                                             <input class="form-control-page" type="text" placeholder="Search" aria-label="Search">
                                     </div>
