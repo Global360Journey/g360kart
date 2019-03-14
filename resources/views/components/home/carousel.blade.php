@@ -20,7 +20,7 @@
                 <h5>Explore the trendiest in-season apparel, sunglasses, shoes, watches, bags and many more from top brands for men only at Amazon Fashion.</h5>
                 <h5>Including:</h5>
                 <p>Clothing, Footwear, Watches, sunglasses, Sportswear</p>
-                <a class="discover_btn" href="https://amzn.to/2T5R1wP">Visit Now</a>
+                <a class="discover_btn" href="https://amzn.to/2T5R1wP" target="_blank">Visit Now</a>
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@
                 <h5>Best Electronic with affordable price </h5>
                 <h5>Including:</h5>
                 <p>Samsung, Vivo, Redme, Realme, Mi, Honor</p>
-                <a class="discover_btn" href="https://amzn.to/2FddTWr">Visit Now</a>
+                <a class="discover_btn" href="https://amzn.to/2FddTWr" target="_blank">Visit Now</a>
             </div>
         </div>
     </div>
@@ -46,7 +46,7 @@
                 <h5>Offer for your home </h5>
                 <h5>Including:</h5>
                 <p>Kitchen, Dining Room, Living Room, Bedroom, Bathroom, Gardeb & Outdoors, Kids room</p>
-                <a class="discover_btn" href="https://amzn.to/2UDmckK">Visit Now</a>
+                <a class="discover_btn" href="https://amzn.to/2UDmckK" target="_blank">Visit Now</a>
             </div>
         </div>
     </div>
@@ -59,7 +59,7 @@
                 <h5>Largest Online Book Store</h5>
                 <h5>Including:</h5>
                 <p>Literature & Fiction, Romance, Business & Economic, Textbooks, Editor's Corner, Motivational, Spritual</p>
-                <a class="discover_btn" href="https://amzn.to/2UwEgwK">Visit Now</a>
+                <a class="discover_btn" href="https://amzn.to/2UwEgwK" target="_blank">Visit Now</a>
             </div>
         </div>
     </div>
