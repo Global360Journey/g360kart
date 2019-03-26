@@ -38,7 +38,7 @@
         }
         
         .col-sm-3 {
-           width: 20% !important;
+           width: 25% !important;
            float: left !important;
            position: relative !important;
         }
@@ -54,13 +54,14 @@
         }
         .dropdown-menu-large > li > ul > li {
           list-style: none !important;
+          
         }
         .dropdown-menu-large > li > ul > li > a {
           display: block !important;
           padding: 3px 20px !important;
           clear: both !important;
-          font-weight:300 !important;
-          line-height: 1.428571429 !important;
+          font-weight:500 !important;
+          line-height: 1.658571429 !important;
           color: #333333 !important;
           white-space: normal !important;
         }
@@ -223,7 +224,7 @@
                           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Electronics <i class="fa fa-angle-down" aria-hidden="true"></i></a>
                           <ul class="dropdown-menu dropdown-menu-large row">
 
-                                        <li class="col-sm-3">
+                                        <!--<li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">Sword of Truths</li>
                                                 <li><a href="#">Example</a></li>
@@ -240,6 +241,7 @@
                                                 <li><a href="#">Example</a></li>
                                             </ul>
                                         </li>
+
                                         <li class="col-sm-3">
                                             <ul>
                                                 <li class="dropdown-header">by brand</li>
@@ -283,76 +285,95 @@
                                                 <li class="divider"></li>
                                                 <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                             </ul>
-                                        </li> 
+                                        </li>--> 
                                     </ul>
                           </li>
                           
                           <li class="nav-item dropdown dropdown-large">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fashion<i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                                        
-                                        <!--<ul class="dropdown-menu dropdown-menu-large row">
+                                  <?php
+                                    $menuArray = menuHelper(1);
+                                  ?>
+                                        <ul class="dropdown-menu dropdown-menu-large row">
                                             <li class="col-sm-3">
                                                 <ul>
-                                                    <li class="dropdown-header">Sword of Truths</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
+                                                    <li class="dropdown-header">Men</li>
                                                     <li class="divider"></li>
-                                                    <li class="dropdown-header">Theme/Character</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
+                                                    <?php 
+                                                       foreach($menuArray as $menu): 
+                                                        if($menu["parent_id"]== 19) {
+                                                      ?>
+                                                       <li style="list-style-type:disc;"><a href="#"><?php echo $menu["name"] ?></a>
+                                                       </li> 
+                                                     <?php
+                                                       }
+                                                       endforeach;
+                                                     ?>
                                                 </ul>
                                             </li>
                                             <li class="col-sm-3">
                                                 <ul>
-                                                    <li class="dropdown-header">by brand</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
+                                                    <li class="dropdown-header">Women</li>
+                                                    <li class="divider"></li>
+                                                    <?php 
+                                                       foreach($menuArray as $menu): 
+                                                        if($menu["parent_id"]== 55) {
+                                                      ?>
+                                                       <li style="list-style-type:disc;"><a href="#"><?php echo $menu["name"] ?></a>
+                                                       </li> 
+                                                     <?php
+                                                       }
+                                                       endforeach;
+                                                     ?>
+                                                    <li class="divider"></li>
+                                                    <li class="dropdown-header">Kids</li>
+                                                    <?php 
+                                                       foreach($menuArray as $menu): 
+                                                        if($menu["parent_id"]== 104) {
+                                                      ?>
+                                                       <li style="list-style-type:disc;"><a href="#"><?php echo $menu["name"] ?></a>
+                                                       </li> 
+                                                     <?php
+                                                       }
+                                                       endforeach;
+                                                     ?>
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-3">
+                                                <ul>
+                                                    <li class="dropdown-header">Bag & Luggage</li>
+                                                    <li class="divider"></li>
+                                                    <?php 
+                                                       foreach($menuArray as $menu): 
+                                                        if($menu["parent_id"]== 126) {
+                                                      ?>
+                                                       <li style="list-style-type:disc;"><a href="#"><?php echo $menu["name"] ?></a>
+                                                       </li> 
+                                                     <?php
+                                                       }
+                                                       endforeach;
+                                                     ?>
+                                                </ul>
+                                            </li>
+                                            <li class="col-sm-3">
+                                                <ul>
+                                                    <li class="dropdown-header">Accessories</li>
+                                                    <li class="divider"></li>
+                                                    <?php 
+                                                       foreach($menuArray as $menu): 
+                                                        if($menu["parent_id"]== 169) {
+                                                      ?>
+                                                       <li style="list-style-type:disc;"><a href="#"><?php echo $menu["name"] ?></a>
+                                                       </li> 
+                                                     <?php
+                                                       }
+                                                       endforeach;
+                                                     ?>
                                                     <li class="divider"></li>
                                                     <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
                                                 </ul>
                                             </li>
-                                            <li class="col-sm-3">
-                                                <ul>
-                                                    <li class="dropdown-header">Sword of Truths</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li class="divider"></li>
-                                                    <li class="dropdown-header">Theme/Character</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                            
-                                                </ul>
-                                            </li>
-                                            <li class="col-sm-3">
-                                                <ul>
-                                                    <li class="dropdown-header">by brand</li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li><a href="#">Example</a></li>
-                                                    <li class="divider"></li>
-                                                    <li><img class"img-responsive" src="http://placehold.it/200x150"/></li>
-                                                </ul>
-                                            </li>
-                                        </ul> -->
+                                        </ul>
                               </li>
 
 
